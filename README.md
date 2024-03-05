@@ -1,4 +1,4 @@
-# Python URL Decoder
+# Python Percent Encoded URL Decoder
 
 CLI tool to decode a given URL or a list of URLs in a given file. Written in Python.
 
