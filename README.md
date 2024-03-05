@@ -8,6 +8,9 @@ which contains percent encoded characters, %2F and %20, you can use this tool to
 
 ### More Examples
 ``` zsh
+# Use the interactive CLI decoder
+python3 decode.py
+
 # Supply a file that contains many URLs, one on each line
 python3 decode.py --file="./encoded-examples.txt"
 
