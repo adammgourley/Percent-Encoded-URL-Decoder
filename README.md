@@ -2,9 +2,9 @@
 
 CLI tool to decode a given URL or a list of URLs in a given file. Written in Python.
 
-For example, if you had a URL like so, *"https://example.com/search?q=hello%20world&lang=en%2Fus"*
+For example, if you had a URL like so, *[https://example.com/search?q=hello%20world&lang=en%2Fus]()*
 which contains percent encoded characters, %2F and %20, you can use this tool to decode the URL to
-*"https://example.com/search?q=hello world&lang=en/us"*
+*[https://example.com/search?q=hello world&lang=en/us]()*
 
 ### More Examples
 ``` zsh
